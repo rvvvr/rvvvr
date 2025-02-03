@@ -1,6 +1,7 @@
 ## :3c
 [![wakatime](https://wakatime.com/badge/user/d22f6532-068d-4133-9a1f-bf55295a1468.svg)](https://wakatime.com/@d22f6532-068d-4133-9a1f-bf55295a1468)
-Working on [crude](https://github.com/rvvvr/crude), a gamecube emulator in rust
+
+Working on [crude](https://github.com/rvvvr/crude), a gamecube emulator written in rust!!!!!
 
 <!--
 **rvvvr/rvvvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
